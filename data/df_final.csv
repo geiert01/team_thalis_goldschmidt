@@ -1,0 +1,91 @@
+company,year,metric,value,unit
+Amazon,2022,Carbon Emissions,[70.74],metric tons CO2e
+H&M,2016,Carbon Emissions,"[10376, 70165]",tonnes
+H&M,2017,Carbon Emissions,[70165],tonnes
+H&M,2018,Carbon Emissions,"[6352, 775, 71, 62, 63]",ktonnes
+H&M,2019,Carbon Emissions,"[10, 376, 70, 165, 80, 541, 12, 484, 51, 206, 63, 690, 11, 818, 45, 160, 56, 978, 13, 380, 48, 82, 61, 462]",tonnes
+Apple,2012,Carbon Emissions,[400000],metric tons CO2e
+Apple,2011,Carbon Emissions,[200000],metric tons CO2e
+BP,2017,Carbon Emissions,[48.8],MteCO2e
+BP,2018,Carbon Emissions,"[46.5, 5.7]",MteCO2e
+BP,2019,Carbon Emissions,"[50.5, 5.2]",MteCO2e
+BP,2022,Carbon Emissions,[30.4],MtCO2e
+BP,2023,Carbon Emissions,"[31.1, 1.0]",MtCO2e
+Walmart,2015,Carbon Emissions,[21.69],Million Metric Tons (MT) CO2e
+Walmart,2017,Carbon Emissions,"[12.16, 6.52]",Million MT CO₂e
+Walmart,2018,Carbon Emissions,"[12.16, 6.52]",Million MT CO₂e
+Saudi Aramco,2022,Carbon Emissions,"[55.7, 16.1]",million metric tons of CO2e
+Saudi Aramco,2023,Carbon Emissions,"[54.4, 18.2]",million metric tons of CO2e
+Google,2016,Carbon Emissions,[6.1],million tCO2e
+Google,2018,Carbon Emissions,[4400000],tCO2e
+Volkswagen,2023,Carbon Emissions,[133],g CO₂/km
+Volkswagen,2022,Carbon Emissions,[142],g CO₂/km
+Volkswagen,2021,Carbon Emissions,[119],g/km
+Volkswagen,2020,Carbon Emissions,"[151, 119]",g CO₂/km
+H&M,2017,Energy Consumption,"[11, 818, 45, 160]",tonnes CO2e
+Apple,2018,Energy Consumption,"[113000000, 2500000]","kWh, therms"
+Google,2018,Energy Consumption,[4464000000],kWh
+Google,2020,Energy Consumption,[18],billion kWh
+Volkswagen,2022,Energy Consumption,[21.62],million MWh
+Amazon,2021,Water Usage,"[0.25, 0.0038709677419354834]",Liters
+Amazon,2023,Water Usage,[0.18],Liters per kilowatt-hour (L/kWh)
+H&M,2017,Water Usage,[24],l/pc
+H&M,2018,Water Usage,"[24, 20, 18]","l/pc, l/m, l/kg"
+H&M,2019,Water Usage,[104],l/kg
+Apple,2017,Water Usage,[1.26],billion gallons
+Apple,2018,Water Usage,[1258],million gallons
+Apple,2022,Water Usage,[1527],million gallons
+Apple,2021,Water Usage,[1407],million gallons
+BP,2016,Water Usage,[256.5],million m3
+Saudi Aramco,2021,Water Usage,[33.8],million cubic meters
+Saudi Aramco,2020,Water Usage,[32.9],million cubic meters
+Saudi Aramco,2023,Water Usage,[135.7],million m3
+Saudi Aramco,2022,Water Usage,[93.6],million cubic meters
+Google,2022,Water Usage,[5.6],billion gallons
+Volkswagen,2023,Water Usage,[37.41],million m³/year
+Amazon,2018,Waste Generation,[375000],metric tons
+Apple,2020,Waste Generation,[74000],metric tons
+Apple,2018,Waste Generation,[74000],metric tons
+BP,2021,Waste Generation,[270],kt
+BP,2022,Waste Generation,[305],kt
+BP,2023,Waste Generation,[481561],metric tons
+Saudi Aramco,2020,Waste Generation,[231000],metric tons
+Saudi Aramco,2021,Waste Generation,[481561],metric tons
+Saudi Aramco,2019,Waste Generation,[158000],metric tons
+Volkswagen,2019,Waste Generation,"[48804, 73308]",tonnes/year
+Volkswagen,2018,Waste Generation,"[65, 588, 83, 943]",tonnes/year
+Amazon,2018,Renewable Energy Usage,[50],%
+Amazon,2019,Renewable Energy Usage,[42],%
+Amazon,2020,Renewable Energy Usage,[65],%
+Amazon,2021,Renewable Energy Usage,[85],%
+H&M,2017,Renewable Energy Usage,[95],%
+H&M,2018,Renewable Energy Usage,[96],%
+H&M,2019,Renewable Energy Usage,[96],%
+H&M,2020,Renewable Energy Usage,[96],%
+H&M,2021,Renewable Energy Usage,[96],%
+H&M,2022,Renewable Energy Usage,[92],%
+Apple,2020,Renewable Energy Usage,[2580],million kWh
+Apple,2022,Renewable Energy Usage,[2.14],billion kWh
+Walmart,2017,Renewable Energy Usage,[0.28], 
+Google,2013,Renewable Energy Usage,[35],%
+Google,2015,Renewable Energy Usage,[48],%
+Google,2016,Renewable Energy Usage,[61],percent
+Google,2017,Renewable Energy Usage,[100],%
+Google,2018,Renewable Energy Usage,[100],%
+Google,2019,Renewable Energy Usage,[100],percent
+Google,2020,Renewable Energy Usage,[100],%
+Google,2021,Renewable Energy Usage,[100],percent  (%)
+Google,2022,Renewable Energy Usage,[100],%
+Volkswagen,2023,Renewable Energy Usage,[56.3],%
+Volkswagen,2022,Renewable Energy Usage,[54.8],%
+Amazon,2018,Greenhouse Gas Emissions Intensity,[128.9],grams of CO2e per dollar (USD)
+Amazon,2019,Greenhouse Gas Emissions Intensity,[122.8],grams of CO2e per dollar
+BP,2017,Greenhouse Gas Emissions Intensity,[25.9],teCO2 equivalent/unit
+BP,2019,Greenhouse Gas Emissions Intensity,[25.9],teCO2e/unit
+Walmart,2017,Greenhouse Gas Emissions Intensity,[42.66],MT CO₂e/$M
+Walmart,2018,Greenhouse Gas Emissions Intensity,[37.3],MT CO2e/$M
+Saudi Aramco,2018,Greenhouse Gas Emissions Intensity,[10.2],kg CO2e/boe
+Saudi Aramco,2021,Greenhouse Gas Emissions Intensity,[10.7],kg CO2e/boe
+Google,2011,Greenhouse Gas Emissions Intensity,[60],tCO2e/FTE
+Google,2013,Greenhouse Gas Emissions Intensity,[5.5],tCO2e/BILLION US$
+Google,2014,Greenhouse Gas Emissions Intensity,[4],tCO2e/FTE
